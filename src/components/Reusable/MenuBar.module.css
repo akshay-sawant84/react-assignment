@@ -1,0 +1,24 @@
+.active{
+    background-color: black;
+    color: white !important;
+    padding: 10px;
+    text-decoration: none !important;
+}
+
+.active:hover{
+    color: white;
+}
+
+.navitem {
+    margin: 10px 10px;
+   
+}
+
+.navitems {
+    text-decoration: none !important;
+    color: black;
+}
+
+.navitems:hover {
+    color: black;
+}
